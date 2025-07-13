@@ -1,6 +1,6 @@
 -  Bombastic Hello, I’m @CreeInf
 -  I’m playing Minecraft
--  I’m currently learning Java
+-  I’m currently learning Java Script
 -  How to reach me: You can't
 -  Pronouns: Creeper :)
 -  Fun fact: I'm as old as Minecaft
