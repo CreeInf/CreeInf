@@ -1,13 +1,13 @@
 -  Bombastic Hello, I’m @CreeInf
 -  I’m playing Minecraft
--  I’m currently learning Java Script
+-  I’m currently learning nothing.
 -  How to reach me: You can't
 -  Pronouns: Creeper :)
 -  Fun fact: I'm as old as Minecaft
 
 Languages that I speak: German, Swiss German and English.
 
-Languages with that I code: Java.
+Languages with that I code: Java, Java Script.
 
 <!---
 CreeInf/CreeInf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
