@@ -18,7 +18,9 @@ I'm a @CreeInf and I'm a developer from switzerland
 
 ## Programing Languages: 
 
-Java, Java Script.
+Java, 
+<img width="518" height="284" alt="JS" src="https://github.com/user-attachments/assets/e45cac92-9954-4551-a2d6-1d80cee63412" />
+
 
 <!---
 CreeInf/CreeInf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
