@@ -19,7 +19,7 @@ I'm a @CreeInf and I'm a developer from switzerland
 ## Programing Languages: 
 
 Java, 
-<img width="518" height="284" alt="JS" src="https://github.com/user-attachments/assets/e45cac92-9954-4551-a2d6-1d80cee63412" />
+<img width="10%" height="10%" alt="JS" src="https://github.com/user-attachments/assets/e45cac92-9954-4551-a2d6-1d80cee63412" />
 
 
 <!---
